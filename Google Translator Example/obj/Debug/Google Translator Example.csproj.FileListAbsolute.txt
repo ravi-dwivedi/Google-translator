@@ -1,0 +1,10 @@
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\Google Translator Example.exe.config
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\Google Translator Example.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\Google Translator Example.pdb
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\obj\Debug\Google Translator Example.csprojResolveAssemblyReference.cache
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\obj\Debug\Google Translator Example.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\obj\Debug\Google Translator Example.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ravidwivedi\documents\visual studio 2013\Projects\Google Translator Example\Google Translator Example\bin\Debug\HtmlAgilityPack.xml
